@@ -1,4 +1,4 @@
-# Express + Faye + Nuxt
+# Express + Faye
 
 > Creating a simple realtime chat with Express, Faye and Nuxt.
 
